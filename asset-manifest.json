@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cmcoff/static/css/main.5bb32a6a.css",
-    "main.js": "/cmcoff/static/js/main.3696c400.js",
-    "static/media/Aquatico-Regular.woff": "/cmcoff/static/media/Aquatico-Regular.4de62346c0539bce51d5.woff",
-    "static/media/MaldivesRegular-Wy52G.woff": "/cmcoff/static/media/MaldivesRegular-Wy52G.7b8afee05c8868df7ecf.woff",
-    "index.html": "/cmcoff/index.html",
-    "main.5bb32a6a.css.map": "/cmcoff/static/css/main.5bb32a6a.css.map",
-    "main.3696c400.js.map": "/cmcoff/static/js/main.3696c400.js.map"
+    "main.css": "/cmcoffi/static/css/main.52dc26d7.css",
+    "main.js": "/cmcoffi/static/js/main.3696c400.js",
+    "static/media/Aquatico-Regular.woff": "/cmcoffi/static/media/Aquatico-Regular.4de62346c0539bce51d5.woff",
+    "static/media/MaldivesRegular-Wy52G.woff": "/cmcoffi/static/media/MaldivesRegular-Wy52G.7b8afee05c8868df7ecf.woff",
+    "index.html": "/cmcoffi/index.html",
+    "main.52dc26d7.css.map": "/cmcoffi/static/css/main.52dc26d7.css.map",
+    "main.3696c400.js.map": "/cmcoffi/static/js/main.3696c400.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bb32a6a.css",
+    "static/css/main.52dc26d7.css",
     "static/js/main.3696c400.js"
   ]
 }
