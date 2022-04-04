@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cmcoff/static/css/main.5bb32a6a.css",
+    "main.js": "/cmcoff/static/js/main.3696c400.js",
+    "static/media/Aquatico-Regular.woff": "/cmcoff/static/media/Aquatico-Regular.4de62346c0539bce51d5.woff",
+    "static/media/MaldivesRegular-Wy52G.woff": "/cmcoff/static/media/MaldivesRegular-Wy52G.7b8afee05c8868df7ecf.woff",
+    "index.html": "/cmcoff/index.html",
+    "main.5bb32a6a.css.map": "/cmcoff/static/css/main.5bb32a6a.css.map",
+    "main.3696c400.js.map": "/cmcoff/static/js/main.3696c400.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bb32a6a.css",
+    "static/js/main.3696c400.js"
+  ]
+}
